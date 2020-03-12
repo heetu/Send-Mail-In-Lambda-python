@@ -32,7 +32,7 @@ def lambda_handler(event, context):
     }
     if success:
         response["statusCode"] = 200
-        response["body"] = '{"message":We have received your response,Thank You...!!}'
+        response["body"] = '{"message": "We have received your response,Thank You...!!"}'
     else:
         response["statusCode"] = 400
         response["body"] = '{"status":false}'
