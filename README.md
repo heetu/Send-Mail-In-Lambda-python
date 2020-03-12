@@ -8,7 +8,7 @@
     MAIL_FROM: Alias Name <alias@domain.com> (Optional)
     MAIL_TO: Recipient1 <recipient1@domain.com>, Recipient2 <recipient2@domain.com>
 
-#Folder Structure
+# Folder Structure
     -Root
         -Attractive_Form
             -Form With Css And Js(attractive form template)
